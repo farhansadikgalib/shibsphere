@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.farhan.shibsphere">
    <application
-        android:label="shibsphere"
+        android:label="ShibSphere"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
